@@ -188,6 +188,14 @@ RETAIL-REVEAL-RETAIL-ANALYTICS-DASHBOARD/
 
 [**Open Retail Reveal on Tableau Public →**](https://public.tableau.com/views/P1_17919139458500/RetailAnalyticsDashboard)
 
+
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+
 ---
 
 # ⚙️ Access the Dashboard
