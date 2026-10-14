@@ -1,14 +1,18 @@
-# 📊 Retail Reveal
-
-# Retail Analytics Dashboard
-
-## Transform Data. Reveal Insights. Decide with Confidence. 🛒
-
-See what your sales are saying.
+<!-- Project Header -->
+<div align="center">
+  <h1>📊 Retail Reveal</h1>
+  <h2>Transform Data. Reveal Insights. Decide with Confidence. 🛒</h2>
+  <p>
+    <strong>See what your sales are saying.</strong>
+  </p>
+</div>
 
 ---
 
-<p align="center">
+
+<!-- Quick Stats -->
+<div align="center">
+
 
 ![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-4CAF50?style=for-the-badge)
@@ -17,7 +21,7 @@ See what your sales are saying.
 ![Retail Analytics](https://img.shields.io/badge/Retail-Analytics-F7931E?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
